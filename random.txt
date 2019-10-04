@@ -1,3 +1,5 @@
 This is a random text file, it contains random thoughts!
 Thank you GitKraken!
 ... I've had too much caffeine... Sleeping shall be intresting tonight.
+I made a branch and now I'm adding stuff to it!
+Adding stuff!!!
